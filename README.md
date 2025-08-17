@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm passionate about AI research, math, education, healthcare & accessibility, and creating scalable, everyday tools that are accessible to everyone.
+Welcome to my GitHub profile! I'm passionate about AI & math research, education, healthcare & accessibility, and creating scalable, everyday tools that are accessible to everyone.
 
 <!-- A little about me -->
 - 🔭 I’m currently working on: InkSight — an AI-driven note-taking and accessibility platform for students, especially those with ADHD, auditory processing disorders, and other learning differences.
