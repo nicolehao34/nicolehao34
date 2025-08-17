@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about AI research, math, education,
 - 🤔 I’m looking for help with: InkSight! We're always looking for collaborators
 - 📫 How to reach me: yh397@cornell.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm currently working at Artian AI, designing and implementing multi-agent solutions for financial services from scratch! It's been a lot of fun so far :) 
+- ⚡ Fun fact: I'm currently working at Artian AI, designing and implementing multi-agent solutions for large financial services from scratch! It's been a lot of fun so far :) 
 
 ---
 
