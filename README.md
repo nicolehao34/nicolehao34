@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nicole+%F0%9F%91%8B;AI+%26+Math+Researcher;Building+for+Accessibility+%26+Social+Good;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FA9A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nicole+%F0%9F%91%8B;AI+%26+Math+Researcher;Building+for+Social+Good;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <br/>
 
@@ -49,20 +49,15 @@ Welcome to my GitHub! I'm passionate about **AI & math research**, **education**
 
 <div align="center">
 
-<!-- Contribution Streak -->
+<!-- Contribution Streak & Graph side by side -->
+<table><tr>
+<td valign="top">
 <img src="https://streak-stats.demolab.com?user=nicolehao34&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=A9FEF7&fire=FF7043&currStreakLabel=A9FEF7&sideLabels=A9FEF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" height="180"/>
-
-<br/><br/>
-
-<div>
-
-
-## Contribution Graph
-
-<div align="center">
-
-<!-- Continuous area/curve contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolehao34&theme=tokyo-night&custom_title=Nicole's%20Contribution%20Activity&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&area_color=A9FEF720&hide_border=true" alt="Contribution Graph" width="95%"/>
+</td>
+<td valign="top">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolehao34&theme=tokyo-night&custom_title=Nicole's%20Contribution%20Activity&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&area_color=A9FEF720&hide_border=true" alt="Contribution Graph" height="180"/>
+</td>
+</tr></table>
 
 </div>
 
