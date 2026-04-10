@@ -1,30 +1,77 @@
-## Hi there 👋 I'm Nicole
+<div align="center">
 
-<!--
-**nicolehao34/nicolehao34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nicole+%F0%9F%91%8B;AI+%26+Math+Researcher;Building+for+Accessibility+%26+Social+Good;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yh397@cornell.edu)
+[![Cornell](https://img.shields.io/badge/Cornell_University-B31B1B?style=for-the-badge&logo=academia&logoColor=white)](https://cornell.edu)
+[![She/Her](https://img.shields.io/badge/She%2FHer-F4A7B9?style=for-the-badge)](https://github.com/nicolehao34)
 
-Welcome to my GitHub profile! I'm passionate about AI & math research, education, healthcare & accessibility, and creating scalable, everyday tools that are accessible to everyone.
-
-<!-- A little about me -->
-- 🔭 I’m currently working on: InkSight, an AI-driven note-taking and accessibility platform for students, especially those with ADHD, auditory processing disorders, and other learning differences.
-- 🌱 I’m currently learning: Neuroscience, Cognitive Science, Multi-agent systems, Multimodal Learning, Game Theory, Functional Analysis, Measure Theory, Parallel Computing, and Computer Vision for EdTech
-- 👯 I’m looking to collaborate on: Projects that involve open source, AI for social good
-- 🤔 I’m looking for help with: InkSight! We're always looking for collaborators
-- 📫 How to reach me: yh397@cornell.edu
-- 😄 Pronouns: she/her
+</div>
 
 ---
 
-Thanks for stopping by — feel free to explore my repositories and connect!
+## About Me
+
+Welcome to my GitHub! I'm passionate about **AI & math research**, **education**, **healthcare & accessibility**, and creating scalable, everyday tools that are accessible to everyone.
+
+| | |
+|---|---|
+| **Building** | InkSight — an AI-driven education & accessibility platform for students with ADHD, APD, and other learning differences |
+| **Learning** | Neuroscience · Cognitive Science · Multi-agent Systems · Multimodal Learning · Game Theory · Functional Analysis · Measure Theory · Parallel Computing · Computer Vision for EdTech |
+| **Collaborating on** | Open source projects · AI for social good |
+| **Reach me** | yh397@cornell.edu |
+
+---
+
+## Tech & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<!-- Contribution Streak -->
+<img src="https://streak-stats.demolab.com?user=nicolehao34&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=A9FEF7&fire=FF7043&currStreakLabel=A9FEF7&sideLabels=A9FEF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" height="180"/>
+
+<br/><br/>
+
+<div>
+
+
+## Contribution Graph
+
+<div align="center">
+
+<!-- Continuous area/curve contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolehao34&theme=tokyo-night&custom_title=Nicole's%20Contribution%20Activity&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&area_color=A9FEF720&hide_border=true" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nicolehao34&color=A9FEF7&style=for-the-badge&label=Profile+Views)
+
+*Thanks for stopping by — feel free to explore my repositories and connect!*
+
+</div>
