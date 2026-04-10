@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm passionate about **AI & math research**, **education**
 | **Collaborating on** | Open source projects · AI for social good |
 | **Reach me** | yh397@cornell.edu |
 
----
+
 
 ## Tech & Tools
 
@@ -43,7 +43,6 @@ Welcome to my GitHub! I'm passionate about **AI & math research**, **education**
 
 </div>
 
----
 
 ## GitHub Stats
 
@@ -61,7 +60,7 @@ Welcome to my GitHub! I'm passionate about **AI & math research**, **education**
 
 </div>
 
----
+
 
 <div align="center">
 
