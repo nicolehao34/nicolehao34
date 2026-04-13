@@ -19,8 +19,8 @@ Welcome to my GitHub! I'm passionate about **AI & math research**, **education**
 
 | | |
 |---|---|
-| **Building** | InkSight — an AI-driven education & accessibility platform for students with ADHD, APD, and other learning differences |
-| **Learning** | Neuroscience · Cognitive Science · Multi-agent Systems · Multimodal Learning · Game Theory · Functional Analysis · Measure Theory · Parallel Computing · Computer Vision for EdTech |
+| **Building** | InkSight, an AI-driven education & accessibility platform for students with ADHD, APD, and other learning differences |
+| **Learning** | Neuroscience · Cognitive Science · Multi-agent Systems · Multimodal Learning · Functional Analysis · Measure Theory · Group Theory & Permutation Puzzles|
 | **Collaborating on** | Open source projects · AI for social good |
 | **Reach me** | yh397@cornell.edu |
 
