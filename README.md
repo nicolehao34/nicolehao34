@@ -15,7 +15,7 @@
 
 ## About Me
 
-Welcome to my GitHub! I'm passionate about **AI & math research**, **education**, **healthcare & accessibility**, and creating scalable, everyday tools that are accessible to everyone.
+Welcome to my GitHub! I'm passionate about **AI & math research**, **neuroscience**, **healthcare & accessibility**, and creating scalable, everyday tools that are accessible to everyone.
 
 | | |
 |---|---|
